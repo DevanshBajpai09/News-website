@@ -1,10 +1,6 @@
 import React from "react";
 
 const Newsitem = (props) => {
-
-
-
-
     let { title, description, imageUrl, newsUrl, author, Time, Source } = props;
     return (
         <div className='my-5' >
