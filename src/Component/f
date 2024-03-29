@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katia Hetter",
+            "title": "Are allergies making you feel sick? Here’s how to find out - CNN",
+            "description": "As spring begins, more people than ever are affected by seasonal allergies that are starting earlier and lasting longer. How do you know if you have them?",
+            "url": "https://www.cnn.com/2024/03/27/health/spring-allergies-pollen-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1902025989-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-27T18:30:00Z",
+            "content": "Sniffling a bit more than usual? Welcome to spring allergy season in the Northern Hemisphere. Even if you dont think you have allergies, its worth paying attention to those sniffles.\r\nMore than 1 in … [+7429 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Miami Herald"
+            },
+            "author": "Grethel Aguila, Jay Weaver, Omar Rodríguez Ortiz",
+            "title": "What did agents find when they raided Diddy’s mansion? Where is the mogul? What to know - Miami Herald",
+            "description": "Agents seized electronics and Diddy’s phone after raiding his Star Island mansion in Miami Beach. They questioned him at Opa-locka airport before he flew to Antigua: source",
+            "url": "https://www.miamiherald.com/news/local/crime/article287100960.html",
+            "urlToImage": "https://www.miamiherald.com/latest-news/ry6vbx/picture287087665/alternates/LANDSCAPE_1140/112_Sean_Diddy_Combs_House_AF.jpg",
+            "publishedAt": "2024-03-27T17:55:52Z",
+            "content": "Crime\r\nFour people in Diddys entourage were cuffed by federal agents after they raided his Miami Beach mansion Monday. Another Diddy associate was busted on drug charges at the Opa-locka airport. And… [+7515 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dan Stillman",
+            "title": "A way-too-early look at the cloud cover forecast for the solar eclipse - The Washington Post",
+            "description": "Initial forecasts lean toward sunnier skies over Texas and cloudier skies to the north, but it’s much too soon to place confidence in this outlook.",
+            "url": "https://www.washingtonpost.com/weather/2024/03/27/solar-eclipse-cloud-forecast-totality/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CUNL5KN6ENFDTLOBJGR6ITDTWQ.png&w=1440",
+            "publishedAt": "2024-03-27T17:54:43Z",
+            "content": "First things first: Youre not going to get anything here resembling a confident cloud forecast for a few-minute window 12 days from now. But if youve got plans to watch the April 8 total solar eclips… [+6175 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jordan Freiman, Brian Dakss",
+            "title": "Mega Millions estimated $1.13 billion jackpot has one winning ticket, in New Jersey - CBS News",
+            "description": "There was one winning ticket sold for Tuesday night's estimated $1.13 billion Mega Millions jackpot, in New Jersey, officials said. It was the fifth largest in the game's history.",
+            "url": "https://www.cbsnews.com/news/mega-millions-1-1-billion-jackpot-1-winning-ticket/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/27/1397a21d-eaad-4ec9-b66e-eec904c1c184/thumbnail/1200x630/517fb406cc1c95930a3fb7a71a8a4a80/gettyimages-2115755837.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+            "publishedAt": "2024-03-27T17:29:19Z",
+            "content": "There was one winning ticket sold for Tuesday night's estimated $1.13 billion Mega Millions jackpot, in New Jersey, the game's officials said. It was the fifth largest pot of gold ever won by Mega Mi… [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Israel and Hezbollah trade strikes over Lebanon border - BBC.com",
+            "description": "The Iran-backed movement fires rockets into Israel killing one, after a deadly strike on a Lebanese village.",
+            "url": "https://www.bbc.com/news/world-middle-east-68675608",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67E0/production/_133029562_mediaitem133029558.jpg",
+            "publishedAt": "2024-03-27T17:03:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Audrey Conklin",
+            "title": "Utah children’s book author sent damning text to lover before hubby poison plot: docs - Fox News",
+            "description": "Utah woman Kouri RIchins, a children's book author accused of poisoning her husband Eric Richins with fentanyl in 2022, is now facing a new attempted murder charge.",
+            "url": "https://www.foxnews.com/us/utah-childrens-book-author-sent-damning-text-lover-before-hubby-poison-plot-docs",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/Richins.jpg",
+            "publishedAt": "2024-03-27T17:01:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+7722 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Mary Kekatos",
+            "title": "Puerto Rico's health department declares public health emergency as dengue cases rise - ABC News",
+            "description": "So far, 549 cases of dengue fever have been recorded this year, officials say.",
+            "url": "https://abcnews.go.com/Health/puerto-ricos-health-department-declares-public-health-emergency/story?id=108540012",
+            "urlToImage": "https://i.abcnewsfe.com/a/87a224a7-dacc-4517-a33b-f20345311ebb/dengue-mosquito-gty-jef-240327_1711544082416_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-03-27T16:58:17Z",
+            "content": "Puerto Rico has declared a public health emergency as the number of dengue fever cases continues to rise.\r\nSo far this year, there have been 549 cases reported with the plurality occurring in San Jua… [+2809 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elisabeth Buchwald, Samantha Delouya",
+            "title": "Disney and DeSantis have settled their yearslong dispute - CNN",
+            "description": "A yearslong fight between Disney and Florida is set to end after the two parties agreed to a settlement.",
+            "url": "https://www.cnn.com/2024/03/27/business/desantis-disney-fight-reaches-settlement/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2022-07-31t170716z-1732882845-rc2fmv9r74uw-rtrmadp-3-usa-tourism-disney-world.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-27T16:56:00Z",
+            "content": "A yearslong fight between Disney and Florida is set to end after the two parties agreed to a settlement.\r\nIn a meeting Wednesday morning, members of the board of the Central Florida Tourism Oversight… [+5169 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MICHAEL R. SISAK",
+            "title": "Donald Trump assails judge and his daughter after gag order in New York hush-money criminal case - The Associated Press",
+            "description": "Donald Trump has lashed out at the New York judge who put him under a gag order that bars him from commenting publicly about witnesses, prosecutors, court staff and jurors in his upcoming hush-money criminal trial. The former president also lambasted the judg…",
+            "url": "https://apnews.com/article/donald-trump-judge-merchan-hush-money-gag-order-truth-social-daughter-578a0c6334b206d81dc2ebf6a410a502",
+            "urlToImage": "https://dims.apnews.com/dims4/default/455c0fb/2147483647/strip/true/crop/3641x2048+0+189/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2F17%2F9d494effe9f03d058337c2f9d9e5%2Fb4f8e29f9b464fbab55dc873845603c6",
+            "publishedAt": "2024-03-27T16:32:02Z",
+            "content": "Donald Trump lashed out Wednesday at the New York judge who put him under a gag order ahead of his April 15 hush-money criminal trial, suggesting without evidence that the veteran jurist was kowtowin… [+5154 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Camilo Montoya-Galvez",
+            "title": "Appeals court keeps hold on Texas' SB4 immigration law while it consider its legality - CBS News",
+            "description": "Passed by the Texas legislature last year, SB4 would create state crimes for entering or reentering the state from Mexico outside an official port of entry.",
+            "url": "https://www.cbsnews.com/news/sb4-appeals-court-keeps-hold-texas-immigration-law-consider-legality/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/11/dcb84a8f-f5f3-4550-8d68-cc4da8c29297/thumbnail/1200x630/c3a0722e3dfe584d5866e1b75c3ac1c6/landscape-56.png?v=3d62f4cc0092e6eb151a9685301ed284",
+            "publishedAt": "2024-03-27T16:12:47Z",
+            "content": "A panel of federal appeals court judges late Tuesday continued to block Texas from arresting and jailing migrants under a contentious state immigration law known as SB4, keeping a hold on the measure… [+2950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": "https://www.jpl.nasa.gov/",
+            "title": "NASA's Europa Clipper Survives and Thrives in 'Outer Space' on Earth - NASA Jet Propulsion Laboratory",
+            "description": "A gantlet of tests prepared the spacecraft for its challenging trip to the Jupiter system, where it will explore the icy moon Europa and its subsurface ocean.",
+            "url": "https://www.jpl.nasa.gov/news/nasas-europa-clipper-survives-and-thrives-in-outer-space-on-earth",
+            "urlToImage": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1-PIA26064-Clipper-vertical-in-TVAC.jpg",
+            "publishedAt": "2024-03-27T16:05:34Z",
+            "content": "Looking to Launch\r\nLater this spring, the spacecraft will be shipped to NASAs Kennedy Space Center in Florida. There, teams of engineers and technicians will carry out final preparations with eyes on… [+1899 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura Paddison, Rachel Ramirez",
+            "title": "Polar ice is melting and changing Earth’s rotation. It’s messing with time itself - CNN",
+            "description": "One day in the next couple of years, everyone in the world will lose a second of their time. Exactly when that will happen is being influenced by human activities.",
+            "url": "https://www.cnn.com/2024/03/27/climate/timekeeping-polar-ice-melt-earth-rotation/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1077578760.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-27T16:00:00Z",
+            "content": "One day in the next couple of years, everyone in the world will lose a second of their time. Exactly when that will happen is being influenced by humans, according to a new study, as melting polar ic… [+4891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Canal",
+            "title": "Trump Media stock surges on day 2 of market debut - Yahoo Finance",
+            "description": "Trump Media & Technology Group soared as much as 14% on Wednesday.",
+            "url": "https://finance.yahoo.com/news/trump-media-stock-surges-on-day-2-of-market-debut-153225087.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/b4yUuWEjL9Z5SYAC3y7M.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/da5c3a80-ec45-11ee-9fd3-d646779301ac",
+            "publishedAt": "2024-03-27T15:32:25Z",
+            "content": "Trump Media &amp; Technology Group (DJT) soared as much as 14% on Wednesday in its second day of trading on the Nasdaq (^IXIC).\r\nThe parent company of Donald Trump's social media platform Truth Socia… [+2355 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Kate Middleton Not Alone. Cancer On Rise For People Under 50, Say Experts - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2024-03-27T15:09:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Joe Marino, Amanda Woods, Georgett Roberts, Olivia Land",
+            "title": "Driver charged after shooting death of NYPD cop Jonathan Diller - New York Post ",
+            "description": "Lindy Jones, 41, was charged Wednesday morning with criminal possession of a weapon and defacing a weapon.",
+            "url": "https://nypost.com/2024/03/27/us-news/driver-charged-after-shooting-death-of-nypd-cop-jonathan-diller/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/cop-shot-suspect-comp.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-03-27T15:03:44Z",
+            "content": "The career criminal with the nickname Killa who was sitting behind the wheel when NYPD Officer Jonathan Diller was allegedly gunned down by his passenger was hit with charges Wednesday after police s… [+4368 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Lauren Sforza",
+            "title": "Chair says Libertarians are ‘confused’ by RFK Jr.’s VP pick - The Hill",
+            "description": "The chair of the Libertarian National Committee said its members are “confused” by Robert F. Kennedy’s Jr. vice presidential pick, which he announced Tuesday. “I think that a lot of libertarians are a little bit confused over why he chose Nicole Shanahan. I’m…",
+            "url": "https://thehill.com/homenews/campaign/4559103-libertarians-confused-rfk-jr-vp-pick/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/GettyImages-2107857075.jpg?w=1280",
+            "publishedAt": "2024-03-27T14:59:00Z",
+            "content": "Skip to content\r\nThe chair of the Libertarian National Committee said its members are “confused” by Robert F. Kennedy’s Jr. vice presidential pick, which he announced Tuesday.\r\n“I think that a lot of… [+2029 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sean Leahy",
+            "title": "Draymond Green pulls Heat's Patty Mills down by the neck in latest questionable incident - Yahoo Sports",
+            "description": "Officials ruled Green's actions only a common foul.",
+            "url": "https://sports.yahoo.com/draymond-green-pulls-heats-patty-mills-down-by-the-neck-in-latest-questionable-incident-143704489.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SDjxctcOGb2k.88zkyZEHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/17de8930-ec46-11ee-8fef-ff43b4b9c765",
+            "publishedAt": "2024-03-27T14:50:15Z",
+            "content": "Draymond Green has served two different suspensions during the 2023-24 NBA season.(AP Photo/Jeff Chiu)\r\nDraymond Green's history means that any unusual or aggressive-type foul or incident will draw a… [+1171 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Antoinette Radford, <a href=\"/profiles/alisha-ebrahimji\">Alisha Ebrahimji</a> and <a href=\"/profiles/maureen-chowdhury\">Maureen Chowdhury</a>, CNN",
+            "title": "The latest on the Baltimore Key Bridge collapse: Live updates - CNN",
+            "description": "The National Transportation Safety Board chair told CNN that investigators were able to board the ship overnight and obtain the data recorder, or black box. Follow for live updates.",
+            "url": "https://www.cnn.com/us/live-news/baltimore-key-bridge-collapse-03-27-24/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240326161111-baltimore-bridge-collapse-dle-032624-super-tease.jpg",
+            "publishedAt": "2024-03-27T14:40:14Z",
+            "content": "US Transportation Secretary Pete Buttigieg says if private companies are responsible for the Francis Scott Key Bridge cargo ship crash, they will be held responsible. \r\nTo be clear: if any private pa… [+1245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Latest Google Pixel 9 leak reveals third, smaller model - 9to5Google",
+            "description": "Google’s Pixel 9 lineup will look pretty different according to the latest leaks which reveal a third, smaller Pixel 9...",
+            "url": "http://9to5google.com/2024/03/27/google-pixel-9-leak-cad-render-third-model/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/03/google-pixel-9-cad-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-03-27T14:28:00Z",
+            "content": "Googles Pixel 9 lineup will look pretty different according to the latest leaks which reveal a third, smaller Pixel 9 device that would be sold alongside the Pro models.\r\n91Mobiles today posted image… [+1518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        }
+    ]
+}
